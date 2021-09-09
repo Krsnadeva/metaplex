@@ -1,9 +1,9 @@
 {
-  "name": "Critio SOLNFT",
+  "name": "Critio Solana NFT Marketplace",
   "short_name": "Critio SOLNFT",
   "display": "standalone",
   "start_url": "./",
-  "theme_color": "#002140",
+  "theme_color": "#2B2A2A",
   "background_color": "#001529",
   "icons": [
     {
